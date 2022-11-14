@@ -13,6 +13,7 @@ The Crowdsale contract from the OpenZeppelin Solidity library is used to mint a 
 * [solidity](https://docs.soliditylang.org/en/v0.8.17/)
 
 ## Result
+In Results folder
 
 <video controls src="https://github.com/nayananarayananp/Crowdsale_Remix-IDE/blob/main/Results/Remix%20-%20Ethereum%20IDE%20-%20Google%20Chrome%202022-11-13%2023-11-48.mp4?raw=true"/>
 
